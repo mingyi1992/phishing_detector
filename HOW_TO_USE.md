@@ -10,6 +10,26 @@
 
 ## 0. 第一次使用前的準備
 
+### 在新電腦從 GitHub 下載
+
+```bash
+git clone https://github.com/mingyi1992/phishing_detector.git
+```
+
+```bash
+cd phishing_detector
+```
+
+Git 裡**沒有**以下檔案，需要在新電腦自行準備：
+
+| 檔案 | 做法 |
+|---|---|
+| `.env` | `copy .env.example .env`，再依需要修改 |
+| `dataset/*.csv` | 從 Kaggle 下載，見 [dataset/README.md](dataset/README.md) |
+| `calibration.json`、`cache/`、`reports/` | 執行 `calibrate` / `evaluate` 時自動產生（每台電腦、每個模型要自己跑） |
+
+接著依下表完成安裝。
+
 | 步驟 | 指令 / 動作 |
 |---|---|
 | 1. 安裝 Python 3.10 以上 | https://www.python.org |
