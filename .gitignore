@@ -1,3 +1,20 @@
-./.env
-./env.bak
-./env.example
+# 個人 / 各機器的設定（新電腦請由 .env.example 複製成 .env）
+.env
+.env.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# 資料集：檔案太大且為 Kaggle 資料，請自行下載（見 dataset/README.md）
+dataset/*
+!dataset/README.md
+
+# 執行時產生的檔案（各機器、各模型自己產生）
+cache/
+reports/
+calibration.json
+models/
+
+# 編輯器設定
+.vscode/

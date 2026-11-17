@@ -1,0 +1,9 @@
+# 微調訓練專用套件（需 NVIDIA GPU）
+# 先安裝 CUDA 版 PyTorch（依顯示卡驅動選擇 cu121 / cu124 等）：
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+transformers>=4.45
+peft>=0.13
+accelerate>=1.0
+bitsandbytes>=0.45     # 4-bit QLoRA（Windows 已有官方 wheel）
+safetensors>=0.4
+sentencepiece>=0.2

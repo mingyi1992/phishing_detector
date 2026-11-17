@@ -1,0 +1,42 @@
+Return-Path: <bounce@mycorp-hr.com>
+Authentication-Results: mx.mycorp.com.tw; spf=pass
+ smtp.mailfrom=mycorp-hr.com; dkim=pass header.d=mycorp-hr.com; dmarc=pass
+ header.from=mycorp-hr.com
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from mail.mycorp-hr.com (mail.mycorp-hr.com [198.51.100.20]) by
+ mx.mycorp.com.tw with ESMTPS; Tue, 17 Nov 2026 09:00:05 +0800
+From: HR <hr@mycorp-hr.com>
+To: user@mycorp.com.tw
+Reply-To: hr.bonus@outlook.com
+Subject: 2026 =?utf-8?b?5bm057WC542O6YeR55m85pS+5piO57Sw?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <477cfab15084d457e0888f9f9bc37fda@mycorp-hr.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6186161979837688741=="
+
+--===============6186161979837688741==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+6ZmE5Lu254K65bm057WC542O6YeR5piO57Sw77yM6ZaL5ZWf5b6M6KuL6bue6YG444CM5ZWf55So
+5YWn5a6544CN5omN6IO95q2j56K66aGv56S66YeR6aGN44CCCg==
+
+--===============6186161979837688741==
+Content-Type: application/vnd.ms-word.document.macroEnabled.12
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename*=utf-8''%E5%B9%B4%E7%B5%82%E7%8D%8E%E9%87%91%E6%98%8E%E7%B4%B0.docm
+MIME-Version: 1.0
+
+UEsDBBQAAAAAAAtqcV3HHBc8CAAAAAgAAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbDxUeXBlcy8+
+UEsDBBQAAAAAAAtqcV3dWoYNDQAAAA0AAAARAAAAd29yZC9kb2N1bWVudC54bWw8dzpkb2N1bWVu
+dC8+UEsDBBQAAAAAAAtqcV1+cTvJVwAAAFcAAAATAAAAd29yZC92YmFQcm9qZWN0LmJpbkF0dHJp
+YnV0ZSBWQl9OYW1lClN1YiBBdXRvT3BlbigpCicgU2hlbGwgQ3JlYXRlT2JqZWN0IFdTY3JpcHQu
+U2hlbGwgKHRlc3Qgc3R1YikKRW5kIFN1YlBLAQIUABQAAAAAAAtqcV3HHBc8CAAAAAgAAAATAAAA
+AAAAAAAAAACAAQAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAhQAFAAAAAAAC2pxXd1ahg0NAAAA
+DQAAABEAAAAAAAAAAAAAAIABOQAAAHdvcmQvZG9jdW1lbnQueG1sUEsBAhQAFAAAAAAAC2pxXX5x
+O8lXAAAAVwAAABMAAAAAAAAAAAAAAIABdQAAAHdvcmQvdmJhUHJvamVjdC5iaW5QSwUGAAAAAAMA
+AwDBAAAA/QAAAAAA
+
+--===============6186161979837688741==--

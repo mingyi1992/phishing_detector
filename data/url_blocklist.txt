@@ -1,0 +1,7 @@
+# 本機網址黑名單（離線威脅情資）
+# 一行一筆：網域（比對主網域與完整主機名稱）或完整網址。# 之後為註解。
+# 可定期由管理者手動匯入 URLhaus / OpenPhish 等離線下載的清單；程式本身不會連線查詢。
+#
+# 範例：
+# evil-login.example
+# http://phish.example/verify

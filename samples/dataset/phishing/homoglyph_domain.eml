@@ -1,0 +1,33 @@
+Return-Path: <bounce@xn--pypal-4ve.com>
+Authentication-Results: mx.mycorp.com.tw; spf=pass
+ smtp.mailfrom=xn--pypal-4ve.com; dkim=pass header.d=xn--pypal-4ve.com;
+ dmarc=pass header.from=xn--pypal-4ve.com
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from mail.xn--pypal-4ve.com (mail.xn--pypal-4ve.com [198.51.100.20])
+ by mx.mycorp.com.tw with ESMTPS; Tue, 17 Nov 2026 09:00:05 +0800
+From: PayPal =?utf-8?b?5a6i5pyN?= <service@xn--pypal-4ve.com>
+To: user@mycorp.com.tw
+Subject: =?utf-8?b?5oKo55qEIFBheVBhbCDluLPmiLblt7LooqvpmZDliLY=?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <721d061a939b1e3e26b8da471902d57e@xn--pypal-4ve.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8414788384741194589=="
+
+--===============8414788384741194589==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+請以 HTML 檢視此信件。
+
+--===============8414788384741194589==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PHA+5oiR5YCR5YG15ris5Yiw55Ww5bi45Lqk5piT77yM5oKo55qE5biz5oi25bey6KKr5pqr5pmC
+6ZmQ5Yi244CCPC9wPjxwPjxhIGhyZWY9J2h0dHBzOi8vd3d3LnBheXBhMS5jb20vc2lnbmluJz5o
+dHRwczovL3d3dy5wYXlwYWwuY29tL3NpZ25pbjwvYT48L3A+Cg==
+
+--===============8414788384741194589==--

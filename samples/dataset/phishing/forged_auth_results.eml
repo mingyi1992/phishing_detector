@@ -1,0 +1,23 @@
+Return-Path: <bounce@hr-payroll-notice.com>
+Authentication-Results: mx.mycorp.com.tw; spf=fail
+ smtp.mailfrom=hr-payroll-notice.com; dkim=none; dmarc=fail
+ header.from=hr-payroll-notice.com
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from mail.hr-payroll-notice.com (mail.hr-payroll-notice.com
+ [198.51.100.20]) by mx.mycorp.com.tw with ESMTPS; Tue, 17 Nov 2026 09:00:05
+ +0800
+Authentication-Results: mx.mycorp.com.tw; spf=pass
+ smtp.mailfrom=hr-payroll-notice.com; dkim=pass
+ header.d=hr-payroll-notice.com; dmarc=pass
+From: Payroll <payroll@hr-payroll-notice.com>
+To: user@mycorp.com.tw
+Subject: =?utf-8?b?6Jaq6LOH5biz5oi25pu05paw6YCa55+l?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <4864101c6466ff3a679bc302b33e19d5@hr-payroll-notice.com>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+5oKo5aW977yM5Zug6YqA6KGM57O757Wx5Y2H57Sa77yM6KuL5pa85pys6YCx5LqU5YmN5Zue6KaG
+5paw55qE6Jaq6LOH5YWl5biz5biz6Jmf6IiH6Lqr5YiG6K2J5b2x5pys44CCCg==

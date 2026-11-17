@@ -1,0 +1,37 @@
+Return-Path: <bounce@parcel-tracking-tw.com>
+Authentication-Results: mx.mycorp.com.tw; spf=pass
+ smtp.mailfrom=parcel-tracking-tw.com; dkim=pass
+ header.d=parcel-tracking-tw.com; dmarc=pass
+ header.from=parcel-tracking-tw.com
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from mail.parcel-tracking-tw.com (mail.parcel-tracking-tw.com
+ [198.51.100.20]) by mx.mycorp.com.tw with ESMTPS; Tue, 17 Nov 2026 09:00:05
+ +0800
+From: =?utf-8?b?54mp5rWB6YCa55+l?= <notice@parcel-tracking-tw.com>
+To: user@mycorp.com.tw
+Subject: =?utf-8?b?5YyF6KO56YWN6YCB5aSx5pWX77yM6KuL6YeN5paw6aCQ57SE?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <b005ed1b994cf2f99174b8016111c589@parcel-tracking-tw.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8098085589338782253=="
+
+--===============8098085589338782253==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+請以 HTML 檢視此信件。
+
+--===============8098085589338782253==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PHA+5oKo55qE5YyF6KO55Zug5Zyw5Z2A5LiN5a6M5pW06YWN6YCB5aSx5pWX77yM6KuL5pa8IDQ4
+IOWwj+aZguWFp+ijnOe5syAzNSDlhYPpgYvosrvkuKbph43mlrDpoJDntITjgII8L3A+PHA+PGEg
+aHJlZj0naHR0cDovLzMyMzIyMzU3NzcvcGF5Jz7ph43mlrDpoJDntITphY3pgIE8L2E+PC9wPjxw
+PjxhIGhyZWY9J2h0dHBzOi8vd3d3Lmdvb2dsZS5jb20vdXJsP3E9aHR0cCUzQSUyRiUyRjIwMy4w
+LjExMy45JTJGbG9naW4nPuafpeipouWMheijuTwvYT48L3A+Cg==
+
+--===============8098085589338782253==--

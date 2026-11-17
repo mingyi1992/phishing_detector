@@ -1,0 +1,20 @@
+Return-Path: <bounce@mycorp.com.tw>
+Authentication-Results: mx.mycorp.com.tw; spf=pass
+ smtp.mailfrom=mycorp.com.tw; dkim=pass header.d=mycorp.com.tw; dmarc=pass
+ header.from=mycorp.com.tw
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from mail.mycorp.com.tw (mail.mycorp.com.tw [198.51.100.20]) by
+ mx.mycorp.com.tw with ESMTPS; Tue, 17 Nov 2026 09:00:05 +0800
+From: =?utf-8?b?6LOH6KiK6YOo?= <it@mycorp.com.tw>
+To: user@mycorp.com.tw
+Subject: =?utf-8?b?57O757Wx57at6K235YWs5ZGK?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <65e5fead68fe65f86b2e5f57f5d8bd80@mycorp.com.tw>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+5ZCE5L2N5ZCM5LuB5aW977yM5pys6YCx5YWtIDIyOjAw4oCTMjQ6MDAg6YCy6KGM6YO15Lu25Ly6
+5pyN5Zmo57at6K2377yM5pyf6ZaT5Y+v6IO954Sh5rOV5pS255m85L+h5Lu277yM5pWs6KuL6KaL
+6KuS44CCCuizh+ioiumDqAo=

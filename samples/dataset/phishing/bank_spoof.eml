@@ -1,0 +1,41 @@
+Return-Path: <x@bulk-sender.ru>
+Authentication-Results: mx.mycorp.com.tw; spf=fail
+ smtp.mailfrom=bulk-sender.ru; dkim=none; dmarc=fail
+ header.from=ctbcbank-secure.com
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from ctbcbank.com (unknown [203.0.113.66]) by mx.mycorp.com.tw with
+ SMTP; Tue, 17 Nov 2026 09:00:05 +0800
+Received: from mail.ctbcbank.com (mail.ctbcbank.com [10.1.1.1]) by
+ ctbcbank.com; Tue, 17 Nov 2026 12:30:00 +0800
+From:
+ =?utf-8?b?5Lit5ZyL5L+h6KiXIOWuouacjeS4reW/gw==?= <service@ctbcbank-secure.com>
+To: user@mycorp.com.tw
+Reply-To: ctbc.service.tw@gmail.com
+Subject: =?utf-8?b?44CQ57eK5oCl44CR5oKo55qE5biz5oi25bCH5pa8IDI0IOWwj+aZgg==?=
+ =?utf-8?b?5YWn5YGc55So?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <3ce89811bdcd85a498f83fe5fa6db41f@ctbcbank-secure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4068007227254754016=="
+
+--===============4068007227254754016==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+請以 HTML 檢視此信件。
+
+--===============4068007227254754016==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PHA+6Kaq5oSb55qE5a6i5oi25oKo5aW977yaPC9wPjxwPuezu+e1seWBtea4rOWIsOaCqOeahOW4
+s+aItuacieeVsOW4uOeZu+WFpe+8jOiri+aWvCAyNCDlsI/mmYLlhaflrozmiJDouqvliIbpqZfo
+rYnvvIzlkKbliYfluLPmiLblsIfooqvlh43ntZDjgII8L3A+PHA+PGEgaHJlZj0naHR0cDovLzE5
+Mi4wLjIuMTAvY3RiYy9sb2dpbi5waHAnPmh0dHBzOi8vd3d3LmN0YmNiYW5rLmNvbS92ZXJpZnk8
+L2E+PC9wPjxwPuiri+a6luWCmei6q+WIhuitieWtl+iZn+OAgee2sumKgOWvhueivOiIh+S/oeeU
+qOWNoeWNoeiZn+iDjOmdouacq+S4ieeivOOAgjwvcD4K
+
+--===============4068007227254754016==--

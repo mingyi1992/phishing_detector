@@ -1,0 +1,37 @@
+Return-Path: <bounce@partner-supply.com>
+Authentication-Results: mx.mycorp.com.tw; spf=pass
+ smtp.mailfrom=partner-supply.com; dkim=pass header.d=partner-supply.com;
+ dmarc=pass header.from=partner-supply.com
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from mail.partner-supply.com (mail.partner-supply.com
+ [198.51.100.20]) by mx.mycorp.com.tw with ESMTPS; Tue, 17 Nov 2026 09:00:05
+ +0800
+From: =?utf-8?b?5o6h6LO8?= <purchase@partner-supply.com>
+To: user@mycorp.com.tw
+Subject: RE: =?utf-8?b?6KiC5Zau56K66KqN?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <323e768c27bf4a3eec82b2c617e4513d@partner-supply.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2683118984263753443=="
+
+--===============2683118984263753443==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+您好，附件為修改後的訂單，請盡快確認並回覆。
+
+--===============2683118984263753443==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Invoice_1120.pdf.exe"
+MIME-Version: 1.0
+
+TVoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAQAAAAFRoaXMgaXMgYSBoYXJtbGVzcyBQaGlzaEd1YXJkIHRlc3Qgc3R1Yi4AAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+--===============2683118984263753443==--

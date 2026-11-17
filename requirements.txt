@@ -1,0 +1,8 @@
+requests>=2.31
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8        # 選用：評估圖表
+oletools>=0.60         # 選用：更完整的 VBA/XLM 巨集分析（未安裝時使用內建簡易偵測）
+tldextract>=5.1        # 選用：更準確的組織網域判斷（僅用內建清單，不連網）
+opencv-python-headless>=4.8   # 選用：圖片 QR Code 解析
+rapidocr_onnxruntime>=1.3     # 選用：圖片 OCR（中英文，模型隨套件安裝）

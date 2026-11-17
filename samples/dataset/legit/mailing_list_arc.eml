@@ -1,0 +1,23 @@
+Return-Path: <bounce@partner-supply.com>
+Authentication-Results: mx.mycorp.com.tw; spf=pass
+ smtp.mailfrom=googlegroups.com; dkim=pass header.d=googlegroups.com;
+ dmarc=fail header.from=partner-supply.com; arc=pass
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from mail.partner-supply.com (mail.partner-supply.com
+ [198.51.100.20]) by mx.mycorp.com.tw with ESMTPS; Tue, 17 Nov 2026 09:00:05
+ +0800
+ARC-Seal:
+ i=1; a=rsa-sha256; t=1763340000; cv=none; d=google.com; s=arc-20240605; b=abc
+List-Id: <dev-group.googlegroups.com>
+From: =?utf-8?b?5p6X5aSn6I+v?= <dahua.lin@partner-supply.com>
+To: dev-group@googlegroups.com
+Subject: [dev-group] =?utf-8?b?5LiL6YCx5oqA6KGT5YiG5Lqr5Li76aGM?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <a5beb2d1e87bf9975c5a727c067efe88@partner-supply.com>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+5aSn5a625aW977yM5LiL6YCx5oqA6KGT5YiG5Lqr5oiR5oOz6KuHIEt1YmVybmV0ZXMg5Y2H57Sa
+57aT6amX77yM5q2h6L+O5aSn5a625o+Q5L6b5oOz6IG955qE5a2Q6aGM44CCCg==

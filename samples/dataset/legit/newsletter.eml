@@ -1,0 +1,36 @@
+Return-Path: <bounce@example-shop.com.tw>
+Authentication-Results: mx.mycorp.com.tw; spf=pass
+ smtp.mailfrom=example-shop.com.tw; dkim=pass header.d=example-shop.com.tw;
+ dmarc=pass header.from=example-shop.com.tw
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from mail.example-shop.com.tw (mail.example-shop.com.tw
+ [198.51.100.20]) by mx.mycorp.com.tw with ESMTPS; Tue, 17 Nov 2026 09:00:05
+ +0800
+From: =?utf-8?b?6Zu75a2Q5aCx?= <news@example-shop.com.tw>
+To: user@mycorp.com.tw
+Subject: =?utf-8?b?44CQRXhhbXBsZSBTaG9w44CRMTEg5pyI5pyD5ZOh6Zu75a2Q5aCx?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <b472ef2074d47f3c25f74af2d41dfb11@example-shop.com.tw>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3113740519952697608=="
+
+--===============3113740519952697608==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+請以 HTML 檢視此信件。
+
+--===============3113740519952697608==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+PHA+6Kaq5oSb55qE5pyD5ZOh5oKo5aW977yM5pys5pyI5paw5ZOB5bey5LiK5p6277yM5q2h6L+O
+6Iez5a6Y57ay54CP6Ka944CCPC9wPjxwPjxhIGhyZWY9J2h0dHBzOi8vd3d3LmV4YW1wbGUtc2hv
+cC5jb20udHcvbmV3cyc+aHR0cHM6Ly93d3cuZXhhbXBsZS1zaG9wLmNvbS50dy9uZXdzPC9hPjwv
+cD48cD7lpoLkuI3mg7Plho3mlLbliLDpm7vlrZDloLHvvIzlj6/mlrzmnIPlk6HkuK3lv4Plj5bm
+tojoqILplrHjgII8L3A+Cg==
+
+--===============3113740519952697608==--

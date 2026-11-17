@@ -1,0 +1,34 @@
+Return-Path: <bounce@partner-supply.com>
+Authentication-Results: mx.mycorp.com.tw; spf=pass
+ smtp.mailfrom=partner-supply.com; dkim=pass header.d=partner-supply.com;
+ dmarc=pass header.from=partner-supply.com
+Received: from mx.mycorp.com.tw (mx.mycorp.com.tw [10.0.0.5]) by
+ mail.mycorp.com.tw; Tue, 17 Nov 2026 09:00:09 +0800
+Received: from mail.partner-supply.com (mail.partner-supply.com
+ [198.51.100.20]) by mx.mycorp.com.tw with ESMTPS; Tue, 17 Nov 2026 09:00:05
+ +0800
+From: =?utf-8?b?5pyD6KiI6YOo?= <billing@partner-supply.com>
+To: user@mycorp.com.tw
+Subject: 10 =?utf-8?b?5pyI5Lu96KuL5qy+5Zau?=
+Date: Tue, 17 Nov 2026 09:00:00 +0800
+Message-ID: <fff4dc652b9f43570cf1cdc3d5ad2fb8@partner-supply.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3749769089190205907=="
+
+--===============3749769089190205907==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+5oKo5aW977yM6ZmE5Lu254K6IDEwIOaciOS7veiri+asvuWWru+8jOS7mOasvuaineS7tuiIh+WQ
+iOe0hOebuOWQjO+8iOaciOe1kCA2MCDlpKnvvInvvIzlpoLmnInllY/poYzoq4vkvobpm7sgMDIt
+MjM0NS02Nzg544CCCg==
+
+--===============3749769089190205907==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice_2026-10.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKMSAwIG9iajw8Pj5lbmRvYmoKdHJhaWxlcjw8Pj4KJSVFT0YK
+
+--===============3749769089190205907==--
